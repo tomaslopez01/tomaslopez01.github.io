@@ -203,11 +203,9 @@
 							<strong>Vestimenta</strong>
 						</h5>
 						<p class="card-text mbr-fonts-style display-7"><br><strong>Elegante Sport
-</strong><br>Por favor, evitar estos colores</p>
-                        <div class="item-img">
-						<img style="border-radius: 1% !important; width: 350px; margin: 0 auto" src="assets/images/colors.png" alt="paleta de colores">
-					</div>
-					</div>
+</strong><br>Por favor, evitar estos colores:
+<br>Blanco, crudo, crema, colores pálidos que puedan confundirse con el blanco.</p>
+                        </div>
 				</div>
 			</div>
 		</div>
