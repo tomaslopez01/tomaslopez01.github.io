@@ -60,7 +60,7 @@
 	
 	<div class="container-fluid">
 		
-		<div class="row">
+		<div class="row justify-content-center">
 			
 			<div class="item features-without-image col-12 col-md-6 col-lg-4 item-mb active">
 				<div class="item-wrapper">
@@ -71,7 +71,7 @@
 						<h5 class="card-title mbr-fonts-style display-5"><strong>Estancia</strong><br><strong>El Recuerdo</strong></h5>
 						<p class="card-text mbr-fonts-style display-7">Mercedes, Buenos Aires
 <br>17:00hs<br></p>
-                        <div class="mbr-section-btn item-footer" style="padding-left: 30%"><a href="https://maps.app.goo.gl/9jtnsMtj7g83g46y9" class="btn item-btn btn-primary display-7" target="_blank">Ver mapa</a></div>
+                        <div class="mbr-section-btn item-footer" style="margin 0 auto"><a href="https://maps.app.goo.gl/9jtnsMtj7g83g46y9" class="btn item-btn btn-primary display-7" target="_blank">Ver mapa</a></div>
 					</div>
 				</div>
 			</div>
@@ -120,7 +120,7 @@
 				
 			</div>
 		</div>
-		<div class="row">
+		<div class="row justify-content-center">
 			<div class="item features-image col-12 col-md-6 col-lg-4">
 				<div class="item-wrapper">
 					
@@ -129,7 +129,7 @@
 						<p class="mbr-text mbr-fonts-style display-7" style="text-align: center">Tu confirmación es muy importante, por favor indicanos si asistirás o no
 <br>a nuestra boda antes del
 <br><strong>14 de Marzo de 2025</strong></p>
-						<div class="mbr-section-btn item-footer" style="margin: 0 auto"><a href="https://forms.gle/3757NbyHcnP3ss2d6" class="btn item-btn btn-primary display-7" target="_blank">Confirmar</a></div>
+						<div class="mbr-section-btn item-footer" style="margin: 0 auto"><a href="https://forms.gle/c8G4bUDKAusemtym8" class="btn item-btn btn-primary display-7" target="_blank">Confirmar</a></div>
 					</div>
 
 				</div>
@@ -203,11 +203,9 @@
 							<strong>Vestimenta</strong>
 						</h5>
 						<p class="card-text mbr-fonts-style display-7"><br><strong>Elegante Sport
-</strong><br>Por favor, evitar estos colores</p>
-                        <div class="item-img">
-						<img style="border-radius: 1% !important; width: 350px; margin: 0 auto" src="assets/images/colors.png" alt="paleta de colores">
-					</div>
-					</div>
+</strong><br>Por favor, evitar estos colores: 
+<br>Blanco, crudo, crema, colores pálidos que puedan confundirse con el blanco</p>
+                        </div>
 				</div>
 			</div>
 		</div>
